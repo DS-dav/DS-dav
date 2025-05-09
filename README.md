@@ -1,4 +1,3 @@
-## Start to learn all this stuff now...
 ## Planing to start work with blockchain for 6 month😤
 
 <!--
