@@ -1,4 +1,5 @@
-## Hi there 👋
+## Start to learn all this stuff now...
+## Planing to start work with blockchain for 6 month😤
 
 <!--
 **DS-dav/DS-dav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
